@@ -166,10 +166,6 @@ ETH Beijing Hackathon 的项目需要提交到本页，PR（Pull-Request）截�
 
 ## 🔗 项目链接：[Web3-Interactive-Learning](https://github.com/Web3-Club/Web3-Interactive-Learning/blob/main/README.md)
 
-## 💻 项目图片: 
-
-![](https://i.ibb.co/V9FhnBd/20230408132828.png)
-
 ## 😃 关于我们：[Web3Club](https://github.com/Web3-Club/Intro.)
 
 ## 简介：基于Ethereum 的Web3 互动性学习平台 **助力每个Web3小白成为Web3 Hacker**
@@ -208,94 +204,46 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 最后希望 得到更多参与活动的朋友、评委 及 赞助商 对我们的项目的评价和反馈 以及各位宝贵的建议💬 让我们继续进步下去
 
 ## ❓ 是否基于之前的项目
-参考开源项目 [vue-chat](https://github.com/Coffcer/vue-chat)
+否 这个项目对我们而言 是**完全全新的一次尝试** 
+包括学习内容 也在保证趣味性的前提下 与原来所做的Wiki以及知识文档 完全不同 
 
 ## 🔖 项目进度
 ### 📅 Day1
-#### ✅ 已完成
+#### ✅ 已结束
 - [x] 项目文档
 - [x] 项目文件目录 制作
 - [x] 用户学习主要内容 文本 制作 （Web1-Web3）
 - [x] 分支交互逻辑 设计 
 - [x] 未来 智能合约开发 路线 设计
-#### 🏗️ 已完成
-- [x] 前端 互动聊天界面 开发   
-- [x] 后端 分支交互逻辑设计嵌入 开发
-- [x] 智能合约 开发
-- [x] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
+#### 🏗️ 正在Buidl
+- [ ] 前端 互动聊天界面 开发   
+- [ ] 后端 分支交互逻辑设计嵌入 开发
+- [ ] 智能合约 开发
+- [ ] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
 
 ### 📅 Day2
-#### ✅ 已完成
+#### ✅ 已结束
 - [x] 前端 互动聊天界面 开发 
 - [x] 后端 分支交互逻辑设计嵌入 开发
 - [x] 智能合约 开发
- - SBT
- - Score
+ - acbt
+ - score
 - [x] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
-
-## 📱 demo视频链接: [bilibili](https://www.bilibili.com/video/BV1PM4y117Ab/)
-
 
 ## 💬 如何联系：WeChat ID: YanboTravelAllWorld 
 
 # 10.DeshopDao 
-
-## 赛道
-### Public Good
-
-## 名称：Deshop-Credit
-### 基于区块链地址的信用评级工具
-
-## 项目图片
-![image](https://raw.githubusercontent.com/Rogary/EthBeijing-Credit/master/images/step2.png)
-
-## 简介：【基础设施】Deshop - 地址信用评级工具   
-  - （赛前已完成）构建区中心花的电商交易工具和平台，是的匿名的买卖双方通过去中心化的技术信任工具，达成交易。  
-    -- 卖家发布商品（可兑换NFT，支持虚拟产品和实物产品兑换）  
-    -- 多签钱包保证双方利益  
-  - （比赛内容）构建基于链上历史记录的地址信用评级工具。  
-    -- 基于历史链上金融数据和交易数据（金融+电商）  
-    -- 网页官网查询工具 + 浏览器插件工具  
-  - 电商平台与信用评级伴生，相互促进。  
-
-    项目链接：[Crypto-Address-Credit-Rating-Platform](https://github.com/Rogary/EthBeijing-Credit)   
-
-## 关于参赛团队：
-### WoodXu：产品经理
-### [rogary](https://github.com/Rogary/): 合约+后端
-### [bravehot](https://github.com/bravehot):前端
-     
-## 目标： 
-   1.第一版本Deshop 平台的上线（提前于赛前上线）  
-   2.Deshop 的地址信用评级工具(官网+浏览器插件)  
-   
-  * 构建与去中心化电商平台相伴生的，基于区块链地址的信用评级体系工具和平台。  
-  * 这个工具也可以完全单独使用，给其他项目（帮助识别信用更高的用户等）。  
-   
-## 进度：
-### 04-06进度：
- * 1)合约+后端：合约开发（20%） 
- * 2)前端：网页端（20%）  
-### 04-07进度：
- * 1)合约+后端：合约开发（100%）+后端（40%）  
- * 2)前端：网页端（40%）,网页插件工具（10%）  
-### 04-08进度：  
-* 1)合约+后端：合约开发（100%）+后端（40%）  
-* 2)前端：网页端（60%）,网页插件工具（40%）  
-
-
-## [Demo 视频链接](https://www.youtube.com/watch?v=K7gEv24V_6Q)
-
-
-## [项目github repo链接](https://github.com/Rogary/EthBeijing-Credit)
-
-
-## 是否基于之前的项目
-否，这个项目是完全单独的一部分，从产品功能设计等都是完全从0开始。 
-
-## [Demo](https://eth-beijing-hackathon.vercel.app/home)
-
-### 如何联系：WeChat ID: 18610773817
+* 简介：构建去中心化的电商平台，在可兑换礼品nft 和实物产品方面，给出第三方技术信任解决方案，使得互不认识的买卖家可以在利益被技术保障前提下，实现交易达成。同时尽量保全隐私，最终也要实现去中心化Dao治理。
+* 目标：1.第一版本DeshopDao平台的上线（可能提前于赛前上线） 2.DeshopDao 的地址信用评级工具 3.DeshopaDao Dao治理（可能赛后再做）
+* 是否招募队员：接受参赛同学加入，合约端，后端，前端都可以。
+* 如何联系：WeChat ID: 18610773817
+* 0406进度：
+* 1)合约+后端：合约开发（50%）
+* 2)前端：网页端（60%）
+* 0407进度：
+* 1)合约+后端：合约开发（90%）+后端（80%）
+* 2)前端：网页端（100%）,网页插件工具（10%）
+* 
 # 11. 0xtomb
 * 所选赛道：Public goods
 * 项目图片：![i3FHiQ.png](https://i.328888.xyz/2023/04/08/i3FHiQ.png)
@@ -348,7 +296,9 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
   周五：完成gas price的数学预测模型，更新合约，尝试前端与合约交互。
 # 15. MentorMachines AI
 * 简介：Captivating AI-powered animated mentor, who unravels the secrets of Ethereum and Scroll, while you seize the opportunity to conquer quizzes and claim NFT rewards on Scroll. 引人入胜的AI驱动的动画导师（会说话的脸），揭示以太坊和Scroll的秘密，同时您抓住机会征服测验并在Scroll上领取NFT奖励。
-* 目标：Web Application. Animated AI. NFT.
+* 目标：Website. Animated AI. NFT.
+* 是否招募队员：需要前端（JS、Next.js、React、设计）、NFT 的 Solidity、AI（HuggingFace、GPT）、后端（server setup + integrations）。Looking for Frontend (JS, Next.js, React, design), Solidity for an NFT, AI (HuggingFace, GPT), backend (server setup + integrations).
+* 如何联系：WeChat ID: -
 * Team members: [Mikko](https://github.com/mikkoikola), [Philipp](https://github.com/p0s), [Disney (队长)](https://github.com/discountry)
 * 第一天进度: GPT integration, Web app
 * 第二天进度：Web3 part, NFT on Scroll
@@ -359,67 +309,118 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * [Our Github Repo](https://github.com/p0s/mentor-machines#readme) 
 * 是否基于之前的项目：否。
 # 16. ContriX
-* 简介：帮助每个人形成链上ZK实体，真正拥有自己的身份数据
-* 目标：目前进展是0，在黑客松期间将会做出MVP并且进行演示
-* 是否招募队员：无特定需求，但仍开放，如果有合适的可以加入
-* 如何联系：WeChat ID: samuelzey
-* 第一天进度：完成前后端基本功能、规则引擎，完成circuit设计、circom开发，todo-测试circom，设计Credential规则
-* 第二天进度：完成度90%，具体包括完成前后端开发、电路编写和测试、合约编写和部署，还差部署到服务器和界面优化
-- # 17. Delibird
+# ContriX团队：Staked.id项目黑客松提交
 
-  ### 1. 项目名称：ZKGift
+1. 项目名称：Staked.id
 
-  ### 2. 赛道
+2. 项目图片：
 
-  * 赛道：Layer2 & Scroll
+![image](https://user-images.githubusercontent.com/69525562/230707486-2c9e123e-a4ca-445b-b80d-cf0778a2ba17.png)
 
-  ### 3. 项目图片：
 
-  ![zkgift](http://a1.qpic.cn/psc?/V54ZHT0N2EMkwX1UUQuD2JH78n3JZg3N/bqQfVz5yrrGYSXMvKr.cqb2xfiNiAeLbBS.ryNvccyLhY.HocP4nG3Rgt5vfSzbTzmpRD*b9vbpYyBRvb6AIhYqd1K9xAo0TNkPYfgN2E64!/b&ek=1&kp=1&pt=0&bo=.wbqA*sG6gMDFzI!&tl=1&vuin=476730702&tm=1680930000&dis_t=1680930267&dis_k=8fd89fc8f6ebeedd854c453a1f267c52&sce=60-1-1&rf=viewer_4)
+3. 简介：Staked.id是保护用户隐私的**用户数据资产化**基础设施，允许用户导入链上链下的账户形成account vault，并且通过零知识证明，把可以领取的凭证导入**链上ZK实**体。
+   凭证由数据策展人根据B端真实需求定制，可以包含链上链下的条件，满足条件视为可以领取凭证。
+   开发者可以根据开放API，调用数据策展人的凭证以及获得凭证的账户，开发出符合B端需求的产品。
+   B端可以通过提供数据服务的产品，找到目标用户并且触达。
 
-  ### 4. 简介
+   创新点：
 
-  * ZKGift是部署在zkSync和Scroll以太坊二层侧链上的Dapp，用于打赏捐赠和排名记录。
-  * 只需要一个准确的地址，可以是打赏给喜爱的内容博主，用户便能即刻向对方捐赠token，无需复杂的操作，通过智能合约确保捐赠记录公开透明，并形成简洁直观的捐赠排行榜。
-  * ZKGift的主要目标用户是[大量的粉丝群体]/[KOL]/[项目方]，为他们提供一个高效的无验证捐赠平台，完全根据个人意愿进行捐赠或回礼，界面风格简单易用，用户在任何时间，只需输入收款地址和金额即可直接捐赠，同时生成直观完整的捐赠排行榜。
-  * 输入受赏者地址可以检索到对应的捐赠排行榜，可以看到所有的捐赠者地址和各自的总捐赠金额。捐赠记录存储在映射中，数据公开透明，任何时刻都可查看。捐赠者可以实时查看他们对于某地址的捐赠排名，受赏者可以随时导出排行榜信息文件(address.csv)，也许可以依据排名，向捐赠者回赠对应的NFT空投或实体礼物。
+   1. ZK链上实体：与ZK badge发行协议不同，Staked.id建立了用户zk身份层，当用户需要时可以证明自己的凭证，而不是全部以SBT的方式展示，防止通过多个zk badge回溯推导出用户的原始地址。
+   2. ZK只是手段不是目的，Staked.id是希望把用户的数据变成可以带来收入的资产，让数据产生的价值回到用户手中，因此我们构建了用户画像层，让数据可用性更强。最终目的是数据资产化。
 
-  ### 5. 队长和队员
+4. 成员
 
-  - **Front-end Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
-  - **Contract Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
-  - **Product Manager**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+   1. 队长：Samuel林梓毅
+   2. 队员1: 0xJaynon利俊安
+   3. 队员2: Andrew
 
-  ### 6. 本项目在这次黑客松的目标
+5. 目标：在黑客松期间完成用户端的MVP，即实现：
 
-  * 尽可能完成Dapp的制作，从合约部署到前端交互到开源上线，在过程中不断思考可行的创新点并尝试实现
+   1. 数据策展人可以定义一个凭证的条件，比如：如果要获得“mfer钻石手”的凭证，你需要拥有mfer在导入的钱包内，而且连续14天没有发送或者出售mfer NFT。
+   2. 用户可以导入钱包地址
+   3. 根据导入钱包地址，自动扫描，找到用户符合要求的凭证
+   4. 用户可以查阅凭证信息，选择自己希望导入的凭证
+   5. 在前端把用户选择的凭证生成zk proof
+   6. 把zk proof导入链上zk实体，如果用户第一次导入，将可以把一张代表身份的SBT mint到匿名钱包
+   7. 合约内每张代表身份的SBT都有用户ID，通过用户ID导入凭证ID
 
-  ### 7. 黑客松前两日的进度
+   该MVP实现了用户把链上地址符合条件的凭证通过零知识证明的方式导入链上zk实体，实现用户真正拥有自己的数据。
 
-  * Day1：
-    * 完成合约，在Scroll部署并认证
-    * 前端主界面大致完成，调试API接口
-  * Day2：
-    * 在zkSync部署并认证
-    * 实现前端主要功能模块
-    * 逐步完善项目文档设计
+6. 前两日进度
 
-  ### 8. Demo 视频链接
+   1. 第一天进度：完成前后端基本功能、规则引擎，完成circuit设计、circom开发，todo-测试circom，设计Credential规则
+   2. 第二天进度：完成度90%，具体包括完成前后端开发、电路编写和测试、合约编写和部署，还差部署到服务器和界面优化
 
-  - [Demo](https://www.bilibili.com/video/BV1ek4y1v7Xc/)
+7. Demo视频链接
 
-  ### 9. 项目 github repo 链接
+   https://youtu.be/FSkbWMbdi-c
 
-  - [项目](https://github.com/0xbrowser/zkgift)
-  - [整体设计(miro)](https://github.com/EthBeijing-Terminal3/gpt_backend)
+8. 项目github repo
 
-  ### 10. 是否基于之前的项目
+   1. 前端：https://github.com/804173948/ContriX-ZKID
+   2. 后端：https://github.com/804173948/ContriX-ZKID-Server
+   3. ZK电路+合约：https://github.com/Mobius3-3/zkid-hydra-s1
 
-  - 无，独立开发的原创项目
+9. 从4月5日下午正式开始写第一行代码，没有基于之前任何的项目，展示的**所有成果**（文字与代码）都是黑客松期间完成的。
 
-  ### 11. 项目 Demo 链接
+10. Demo链接：In progress,争取demo演示时可以在线演示
 
-  - 制作中
+
+# 17. Delibird
+
+### 1. 项目名称：ZKGift
+
+### 2. 赛道
+
+* 赛道：Layer2 & Scroll
+
+### 3. 项目图片：
+
+![zkgift](http://a1.qpic.cn/psc?/V54ZHT0N2EMkwX1UUQuD2JH78n3JZg3N/bqQfVz5yrrGYSXMvKr.cqb2xfiNiAeLbBS.ryNvccyLhY.HocP4nG3Rgt5vfSzbTzmpRD*b9vbpYyBRvb6AIhYqd1K9xAo0TNkPYfgN2E64!/b&ek=1&kp=1&pt=0&bo=.wbqA*sG6gMDFzI!&tl=1&vuin=476730702&tm=1680930000&dis_t=1680930267&dis_k=8fd89fc8f6ebeedd854c453a1f267c52&sce=60-1-1&rf=viewer_4)
+
+### 4. 简介
+
+* ZKGift是部署在zkSync和Scroll以太坊二层侧链上的Dapp，用于打赏捐赠和排名记录。
+* 只需要一个准确的地址，可以是打赏给喜爱的内容博主，用户便能即刻向对方捐赠token，无需复杂的操作，通过智能合约确保捐赠记录公开透明，并形成简洁直观的捐赠排行榜。
+* ZKGift的主要目标用户是[大量的粉丝群体]/[KOL]/[项目方]，为他们提供一个高效的无验证捐赠平台，完全根据个人意愿进行捐赠或回礼，界面风格简单易用，用户在任何时间，只需输入收款地址和金额即可直接捐赠，同时生成直观完整的捐赠排行榜。
+* 输入受赏者地址可以检索到对应的捐赠排行榜，可以看到所有的捐赠者地址和各自的总捐赠金额。捐赠记录存储在映射中，数据公开透明，任何时刻都可查看。捐赠者可以实时查看他们对于某地址的捐赠排名，受赏者可以随时导出排行榜信息文件(address.csv)，也许可以依据排名，向捐赠者回赠对应的NFT空投或实体礼物。
+
+### 5. 队长和队员
+
+- **Front-end Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+- **Contract Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+- **Product Manager**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+
+### 6. 本项目在这次黑客松的目标
+
+* 尽可能完成Dapp的制作，从合约部署到前端交互到开源上线，在过程中不断思考可行的创新点并尝试实现
+
+### 7. 黑客松前两日的进度
+
+* Day1：
+  * 完成合约，在Scroll部署并认证
+  * 前端主界面大致完成，调试API接口
+* Day2：
+  * 在zkSync部署并认证
+  * 实现前端主要功能模块
+  * 逐步完善项目文档设计
+
+### 8. Demo 视频链接
+
+- [Demo](https://www.bilibili.com/video/BV1ek4y1v7Xc/)
+
+### 9. 项目 github repo 链接
+
+- [项目](https://github.com/0xbrowser/zkgift)
+- [整体设计(miro)](https://github.com/EthBeijing-Terminal3/gpt_backend)
+
+### 10. 是否基于之前的项目
+
+- 无，独立开发的原创项目
+
+### 11. 项目 Demo 链接
+
+- 制作中
 
 # 18. 3CM from [MetaBorn](https://metaborn.me/)
 * 简介："跨链只有3厘米"
@@ -459,61 +460,15 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * 目标：调研MEV现状，构建低延迟的区块链基础设施，构建准确率更高的恶意Token检测工具。
 * 是否招募队员：是 (希望你熟悉MEV)
 * 如何联系：WeChat ID: tcscry
-### 🗓️ Day3
-
-#### 🚀  进行中
-
-- [x] 准备项目展示材料，制作`ppt`。
-- [x] 开源一切相关代码，工具，开发代码仓库。
-- [x] 预处理几个典型的恶意Token，以供查询。
-
-### 最终提交
-**项目名称**：`Pioplat`
-
-**所选赛道**：Open Reserach
-
-**项目图片**：
-
-![](https://i.328888.xyz/2023/04/08/i3dyEv.png)
-
-
-
-**简介**：我们的项目专注于探索区块链` MEV`（矿工可提取价值）领域。我们开发了两个解决方案，分别应对这个领域中的两个著名的问题：网络信息延迟以及恶意 `erc20` 代币。具体而言，这场黑客松活动中，我们分析了过去两年的`MEV`数据【@klib】，开发了两个程序来展示我们的解决思路【@liyue-cs，@wangtsiao】。
-
--  💨 Pioplat: 一个基于 `geth` 客户端的程序，可以看作是`geth`变体，我们实现了降低网络延迟的算法，或者是节点选择策略。另外，我们还设计了 `relay` 机制以进一步降低延迟，这些`relay`节点单纯的转发消息，成本低廉，具备很好的可扩展性。
--  🔰 TFSniffer: 一种基于符号执行的恶意代币检查器。这里我们设计了几个固定模式来检查 `transfer` 函数中是否存在恶意操作，例如黑名单和白名单，或转账手续费。得益于强大的符号执行技术，我们可以遍历几乎所有的可执行路径，包括多个函数不同先后次序的路径。
--  🔍 MEV Scan: 通过Trace信息来搜集MEV相关交易，由于是通过Trace搜集，即使失败的交易可以被捕获到，相比[eigenphi](https://eigenphi.io/)，交易信息会更加全面。
-
-**队长和队员**：
-
-- ke, wang @kilb 
-- yue, li @liyue-cs
-- tsiao, wang @wangtsiao （队长）
-
-**本项目在这次黑客松的目标**：完成思路验证，最小可行化产品，获得大家的反馈。
-
-**黑客松前两日的进度**：
-
-🗓️ **Day1**
-
-- [x] 网络加速算法模型，`PoC`完成，将算法集成进`bnb smart chain`客户端。
-- [x] 恶意`Token`检测的规则初步设计完成，约束求解以及不可能路径的减支实现完成，前端以及UI设计完成。
-- [x] 使用`Big query`查询过去几年`Ethereum`上`MEV`交易，夹子交易的识别算法设计完成。根据规则编写`SQL`完成，因为数据量十分之大，正在持续检索中。
-
-🗓️ **Day2**
-
-- [x] 网络加速项目修补bug，打印日志，测试运行。
-- [x] 恶意Token检测项目完成获取合约源码、字节码功能，测试效果中。
-- [x] MEV Scanner项目数据量十分之大，正在持续检索中。
-
-**Demo视频链接**：https://www.bilibili.com/video/BV1cm4y1B78R【抱歉视频剪辑工具突然坏了，实际时长3分10秒，但首尾去掉后时长在3分钟以下。】
-
-**项目github repo链接**：https://github.com/mev3/0xdeadbeef
-
-**是否基于之前的项目**：否，之前仅仅是构思，这三天内高强度完成的代码实现。
-
-**项目Demo链接：**暂无，前端开发中。
-
+### 🗓️ Day1
+#### 🎉 已结束
+- [x] 网络加速算法模型，PoC完成，将算法集成进`binance smart chain`客户端。
+- [x] 恶意Token检测的规则初步设计完成，约束求解以及不可能路径的减支实现完成，前端以及UI设计完成。
+- [x] 使用Big query查询过去几年Ethereum上MEV交易，夹子交易的识别算法设计完成。根据规则编写SQL完成，因为数据量十分之大，正在持续检索中。
+#### 🚀 正在进行中
+- [ ] 恶意Token检测的后端RPC代实现
+- [ ] 恶意Token检测项目一个Bug等待解决，Debug
+- [ ] 网络加速项目的Relay Node待实现 开发
 
 
 # 21. FactLens DAO from [SoCity DAO](https://www.socitydao.org/)
@@ -592,23 +547,19 @@ Layer 2 & Scroll
 
 ### 5.**队长和队员**
 团队成员都来自一家顶级 Web3 资管机构，拥有丰富的量化经验和 DeFi 研究经验，每个人都具备敏捷开发的能力，以下是团队成员介绍：
-
-​	**Sake.bit**
+​	Sake.bit
 
 * 队长
+
 * 主要负责：插件开发、产品架构设计、经济模型设计、白皮书撰写
 
-
-
-​	**Wizwu.eth**
+   Wizwu.eth
 
 * 队员
 
 * 主要负责：智能合约开发、后端开发、经济模型设计
 
-
-
-​	 **胖达**
+​	胖达
 
 * 队员
 
@@ -641,27 +592,10 @@ Layer 2 & Scroll
 ​	http://truthpro.xyz/
 
 # 26 NirVANA
-1. 项目名称: NirVANA
-2. 所选赛道: Layer 2 & Scroll
-3. 项目图片: ![](https://kh4t2-waaaa-aaaal-qbhbq-cai.raw.ic0.app/file/leEZpRRFMO0zzSBwJjzeq)
-4. 简介: NirVANA是一个基于ERC2535的模块化SBT发行工具，且支持合约部署后再次添加/替换/删除 模块，目前已支持：DAO治理，社交恢复，ZK验证模块。
-5. 队长和队员: 队长Harlan009, 队员Xun勋
-6. 黑客松目标: 完成项目DEMO
-7. 黑客松前2日进度：
-
-    第一天进度：完成SBT合约及核心模块合约部署， 前端完成创建SBT页面
-
-    第二天进度：前端完成landing page，profile等页面开发，完成模块拖拽选择模块，完成SBT模块化创建逻辑。改进合约初始化机制，逻辑模块合约一次性部署；初步集成ZK验证模块
-
-8. Demo视频链接: https://www.youtube.com/watch?v=9misRClva3Q
-9. 项目 github repo 链接：
-
-    合约: https://github.com/xiaoyuanxun/NirVANA 
-
-    前端: https://github.com/beyond009/NirVANA-FE
-
-10. 是否基于以前项目: 基于[ERC2535标准](https://eips.ethereum.org/EIPS/eip-2535)
-11. 项目Demo链接: https://nirvava.vercel.app/
+* 简介：NirVANA是基于ERC-2535的模块化SBT发行工具，支持zk验证、DAO组织管理、社交恢复等模块。
+* 第一天进度：完成核心模块合约部署， 前端完成创建SBT页面
+* 目标：构建MVP版本
+* 是否招募队员：否
 # 27 Lingnan Ethereum Darkness Agent
 
 ![](https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/eth-watchdog.png)
@@ -741,11 +675,10 @@ https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/EtherWatchdog.mp4
 
 ![dematch](https://user-images.githubusercontent.com/17985352/230534349-1daf3119-ef85-4539-982d-ebbc263056de.jpg)  
 * 简介：  
-  🤝 信任一直是人类社会交往的基石，尤其在物品流通与交易活动中，信任的作用至关重要。从古老的以物易物到如今的数字资产交易，人类始终试图确保交易的公平、安全与诚信，努力提高透明度。随着时代的发展，物品流通和交换模式不断演变，信任机制也在不断升级。  
-  传统的中心化物品流通交易在实践中面临诸多挑战，如信任度不足、中间环节繁琐、交易过程复杂、信息不对称以及数据篡改或丢失等安全问题。
-  💡  区块链技术作为一种分布式、去中心化的技术，在解决传统物品流通交易问题方面展现出显著优势。通过加密算法和共识机制，区块链技术确保了数据的完整性和可靠性，从而提升了交易的安全性和真实性，使参与方能够在无需中心化第三方机构的情况下建立信任。  
-  近年来，Layer2 和 zk 技术的发展为区块链在物品流通交易领域的优化注入了新动力。Layer2 方案和 zk 技术进一步提升了区块链的扩展性、安全性、可靠性和交易速度，有助于降低信任成本，提高交易效率。 
-  🌟  DeMatch 是基于 Scroll 的 Web3.0 物品交易 match 平台。DeMatch 使用智能合约作为中间人、引入加密货币支付和去中心化存储等技术，为 Web3.0 用户提供了一个安全、透明、高效的交易保障。  
+🤝 信任一直是人类社会交往的基石，尤其在物品流通与交易活动中，信任的作用至关重要。从古老的以物易物到如今的数字资产交易，人类始终试图确保交易的公平、安全与诚信，努力提高透明度。随着时代的发展，物品流通和交换模式不断演变，信任机制也在不断升级。传统的中心化物品流通交易在实践中面临诸多挑战，如信任度不足、中间环节繁琐、交易过程复杂、信息不对称以及数据篡改或丢失等安全问题。区块链技术作为一种分布式、去中心化的技术，在解决传统物品流通交易问题方面展现出显著优势。通过加密算法和共识机制，区块链技术确保了数据的完整性和可靠性，从而提升了交易的安全性和真实性，使参与方能够在无需中心化第三方机构的情况下建立信任。  
+近年来，Layer2 和 zk 技术的发展为区块链在物品流通交易领域的优化注入了新动力。Layer2 方案和 zk 技术进一步提升了区块链的扩展性、安全性、可靠性和交易速度，有助于降低信任成本，提高交易效率。  
+💡 DeMatch 的创意受到了近期 $ARB 空投活动的启发。在代币正式开启交易之前，有些人希望进行场外交易，然而陌生人之间进行这类交易时很难建立足够的信任。为此，大部分场外交易采用了中间人担保的双质押模式，即交易双方需质押相等的保证金。在空投代币发放后，中间人则负责确保交易的顺利进行。尽管如此，这种模式中的中间人角色处理起来颇具挑战性，因为找到能让交易双方都信任的中间人并不容易。  
+🌟 DeMatch 是基于 Scroll 的 Web3.0 物品交易 match 平台。DeMatch 使用智能合约作为中间人、引入加密货币支付和去中心化存储等技术，为 Web3.0 用户提供了一个安全、透明、高效的交易保障。  
 ## 1️⃣ DeMatch V1  
 ⚖️ 去中心化撮合中间人。DeMatch 使用智能合约作为撮合中间人，实现了交易双方的自动撮合和交易执行，无须第三方大大降低了信任成本。此外，DeMatch 采用去中心化存储，确保平台数据的安全、可靠、不可篡改。并且可以指定交易人，支持链上资产与实物的撮合交易。  
 ![match](https://user-images.githubusercontent.com/17985352/230704453-1a23ceae-3db8-4465-9ae8-7c971546a728.png)  
@@ -896,8 +829,12 @@ Day2：前端进行UI开发，完成基础前端逻辑，完成circom verifier�
 # 33 智客团队（ZHKMC Team）
  项目名称：Novel DAO
 * 简介：Novel DAO是一个基于区块链的去中心化小说平台，旨在促进作者与读者之间的自由合作与创作。通过Web3技术、加密货币和智能合约，实现全球访问、安全交易和社区治理，推动小说创作的创新和发展。
-* 目标：完成初版项目开发和展示，并积极深度参与以太坊生态。 
+* 目标：完成比赛的项目开发和展示。
+* 目标：完成初版项目开发和展示，并积极深度参与以太坊生态。
+* 
 * 是否招募队员：否。
+* 项目进度：
+- 4月6日： （1）前端页面UI设计与制作：用户端，作者端；（2）核心合约编写； （3）核心业务技术实现方案讨论；
 * 是否基于之前的项目：否。
 
 * **赛道：L2**
@@ -916,10 +853,10 @@ Dapp端：https://github.com/Novel-Dao/novel-dao
 ## 项目截图
 
 * 电脑端首页：
-![pc.png](https://github.com/Novel-Dao/novel-dao/blob/main/images/pc.png)
+![]([https://github.com/Novel-Dao/novel-dao/blob/main/images/pc.png]
 
 * 移动端首页：
-![wap.png](https://github.com/Novel-Dao/novel-dao/blob/main/images/wap.png)
+![]([https://github.com/Novel-Dao/novel-dao/blob/main/images/wap.png]
 
 
 ## 项目进度：
@@ -1179,20 +1116,12 @@ https://block-model.com
 * 目标：会认识很多开发者朋友 会进一步完善wallet
 * 是否招募队员：否
 # 43 Trusta Labs
-* 项目名称：基于lens项目的女巫识别算法(改进)
-* 赛道：Open Research
-![image](https://user-images.githubusercontent.com/85626196/230702805-76c0ecb7-2599-44a5-80cd-54a0e1d642da.png)
 * 简介：TrustaLabs 旨在为web3项目和团队提供在空投、市场活动、捐赠等等场景的用户分析和女巫识别。TrustScan完全基于链上数据，集合资金网络分析、行为序列等多种识别策略，通过AI算法整合输出结果，
-* 队长和队员：Austen
-* 目标：提升女巫算法的覆盖面及准确性
+* 目标：完成基于某项目的女巫识别
 * 是否招募队员：否
 * 项目进度第一天进度基于lens项目的女巫识别，用sql完成数据的获取工作(所有数据来源于footprint),
 * 项目进度第二天用python完成基于资金网络团伙识别、及批量操作合约的团伙识别。
-* [Demo视频链接](https://youtu.be/FBxCbyPc4Dw)
 * [项目链接](https://github.com/gihubsfy/sybil_detect)
-* [基于之前的项目](https://www.trustalabs.ai/trustscan) 产品目前已使用的五大维度 批量操作、星型结构团伙、链式结构团伙、时间序列、黑名单
-* [项目demo链接](https://github.com/gihubsfy/sybil_detect/blob/main/lens_sybil_detect.pdf)
-
 
 # 44 TxRouter
 ![TxRouter](https://img.gejiba.com/images/abde173f088ffb397ea43d77a60dcd58.png)
@@ -1274,16 +1203,10 @@ TODO
 * 是否招募队员：是 招前端。
 * 如何联系：微信名：S creaM
 # 50 GetGas
-* 名称：GetGas
 * 简介：GetGas 是一个交易可执行最小 GasFee 预测系统。
-* 赛道：Public Goods
 * 目标：完成展示和说明。
-* 队长：33357.eth。
-* 目标：完成项目展示和说明。
-* 进度：完成项目demo 和 PPT。
-* github：https://github.com/33357/gas-home。
-* demo：https://gas.33357.club/。
-* 演示：https://www.youtube.com/watch?v=xkzoMkAFGI8
+* 是否招募队员：是 招PPT制作和前端。
+* 如何联系：微信名：im33357（备注 eth Beijing）
 # 51 HyperNFT In Scroll
 ## 简介：
 项目队长共同参与开发并提交的 EIP-5489正式成为ERC标准。此标准通过允许将超链接嵌入 NFT 的元数据（Metadata）卡槽来扩展 ERC-721 的新功能，如此 NFT 的受众可以点击并跳转到任何指定URI 落地页，这给予了NFT的Utility相当的想象空间。NFT除了作为头像展示还有什么Utility？
