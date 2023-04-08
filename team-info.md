@@ -358,13 +358,65 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * [Demo Website: MentorMachines.xyz](https://mentormachines.xyz/)
 * [Our Github Repo](https://github.com/p0s/mentor-machines#readme) 
 * 是否基于之前的项目：否。
-# 16. ContriX
-* 简介：帮助每个人形成链上ZK实体，真正拥有自己的身份数据
-* 目标：目前进展是0，在黑客松期间将会做出MVP并且进行演示
-* 是否招募队员：无特定需求，但仍开放，如果有合适的可以加入
-* 如何联系：WeChat ID: samuelzey
-* 第一天进度：完成前后端基本功能、规则引擎，完成circuit设计、circom开发，todo-测试circom，设计Credential规则
-* 第二天进度：完成度90%，具体包括完成前后端开发、电路编写和测试、合约编写和部署，还差部署到服务器和界面优化
+
+- # 16. ContriX - Staked.id
+
+1. 项目名称：Staked.id
+
+2. 项目图片：
+
+   ![image-20230408134803536](/Users/samuel/Library/Application Support/typora-user-images/image-20230408134803536.png)
+
+3. 简介：Staked.id是保护用户隐私的**用户数据资产化**基础设施，允许用户导入链上链下的账户形成account vault，并且通过零知识证明，把可以领取的凭证导入**链上ZK实**体。
+
+   凭证由数据策展人根据B端真实需求定制，可以包含链上链下的条件，满足条件视为可以领取凭证。
+
+   开发者可以根据开放API，调用数据策展人的凭证以及获得凭证的账户，开发出符合B端需求的产品。
+
+   B端可以通过提供数据服务的产品，找到目标用户并且触达。
+
+   创新点：
+
+   1. ZK链上实体：与ZK badge发行协议不同，Staked.id建立了用户zk身份层，当用户需要时可以证明自己的凭证，而不是全部以SBT的方式展示，防止通过多个zk badge回溯推导出用户的原始地址。
+   2. ZK只是手段不是目的，Staked.id是希望把用户的数据变成可以带来收入的资产，让数据产生的价值回到用户手中，因此我们构建了用户画像层，让数据可用性更强。最终目的是数据资产化。
+
+4. 成员
+
+   1. 队长：Samuel林梓毅
+   2. 队员1: 0xJaynon利俊安
+   3. 队员2: Andrew
+
+5. 目标：在黑客松期间完成用户端的MVP，即实现：
+
+   1. 数据策展人可以定义一个凭证的条件，比如：如果要获得“mfer钻石手”的凭证，你需要拥有mfer在导入的钱包内，而且连续14天没有发送或者出售mfer NFT。
+   2. 用户可以导入钱包地址
+   3. 根据导入钱包地址，自动扫描，找到用户符合要求的凭证
+   4. 用户可以查阅凭证信息，选择自己希望导入的凭证
+   5. 在前端把用户选择的凭证生成zk proof
+   6. 把zk proof导入链上zk实体，如果用户第一次导入，将可以把一张代表身份的SBT mint到匿名钱包
+   7. 合约内每张代表身份的SBT都有用户ID，通过用户ID导入凭证ID
+
+   该MVP实现了用户把链上地址符合条件的凭证通过零知识证明的方式导入链上zk实体，实现用户真正拥有自己的数据。
+
+6. 前两日进度
+
+   1. 第一天进度：完成前后端基本功能、规则引擎，完成circuit设计、circom开发，todo-测试circom，设计Credential规则
+   2. 第二天进度：完成度90%，具体包括完成前后端开发、电路编写和测试、合约编写和部署，还差部署到服务器和界面优化
+
+7. Demo视频链接
+
+    https://youtu.be/FSkbWMbdi-c
+
+8. 项目github repo
+
+   1. 前端：https://github.com/804173948/ContriX-ZKID
+   2. 后端：https://github.com/804173948/ContriX-ZKID-Server
+   3. ZK电路+合约：https://github.com/Mobius3-3/zkid-hydra-s1
+
+9. 从4月5日下午正式开始写第一行代码，没有基于之前任何的项目，展示的**所有成果**（文字与代码）都是黑客松期间完成的。
+
+10. Demo链接：In progress, 争取在Demo前上线。
+
 - # 17. Delibird
 
   ### 1. 项目名称：ZKGift
